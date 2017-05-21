@@ -1,0 +1,65 @@
+\documentclass[12pt, letterpaper, twoside]{article}
+\usepackage[utf8]{inputenc}
+ 
+\title{First document SCHOOL OF COMPUTING AND INFORMATION TECHNOLOGY. A CONCEPT PAPER ON 
+3D demos of geometric concepts
+ }
+\author{Names:Alan Balijawa RegNo:14/U/3906/Ps StdnO:214012947}
+
+
+\begin{document}
+ 
+\begin{Abstract}
+The Geometric Modeling course (Part B) deals with several interesting concepts which would be best visualized in a suite of applications. A coherent suite of 3D demos could easily become a useful tool for this course, as well as for users worldwide.
+This project would be most suitable for a candidate who already have some experience using a 3D graphics library of their choice and want to improve this skill. The mathematical concepts are well-documented.
+\end{Abstract}
+
+
+\begin{Introduction}
+These 3D demo Shapes will reinforce key maths concepts such as volume relationships, geometrical models and shape recognition. Teaching 3D with solid shapes in plastic or wood. Includes geometric shapes and folding shapes, flip charts and magnetic tiles
+\end{Introduction}
+
+
+\begin{Problem Statement}
+In the recent times where we used not to teach with the concept of 3D demos, we often faced Short description where  face alignment was the problem of registering a parameterized shape model to an image such that its landmarks correspond to consistent locations on the face. Previous methods (e.g., Constrained Local Models or Supervised Descent Methods) either locate a small number of fiducially points in real time or fit a high-resolution 3D model at a much higher cost (3D Morph able Models). We present a system for dense 3D face alignment from 2D video capable of real-time performance and manageable storage size. The system produces precise, dense shape information for spontaneous facial action unit detection.
+\end{Problem Statement}
+
+
+\begin{Objectives}
+\begin{Main Objective}
+The need to present augmented  reality.
+\end{Main Objective}
+\begin{Specific Objective}
+-The purpose of the Unit is to act as a technology based centre for advanced computer applications in the engineering sector.
+-The Unit promotes awareness of and the use of Artificial Intelligence (AI), Computer Graphics (CG) and Virtual Reality (VR) to solve industrial problems.
+\end{Specific Objectives}
+\end{objectives}
+
+\begin{Methodoloogy}
+\begin{1.Direct parametric approach}
+Concept design is a time to generate as many product ideas or concepts as possible. A combination of direct and parametric approaches allows you to build on existing designs or create new ones with speed and agility. And with Creo, all changes are tracked so that they stay synced up with the parametric model.
+\end{1.Direct parametric approach}
+\begin{2.Digital prototypes}
+These need to be frequently analyzed as the design evolves–a process that usually requires engineers to simplify the model by removing features, so that the analysis can be completed quickly. Direct Modeling supports designers and analysts in removing features such holes, faces, features, blends, and other geometry. These capabilities let users prepare parametric models for analysis without requiring a high level of experience with the parametric modeling capabilities.
+\end{2.Digital prototypes}
+
+\begin{Outcomes}
+In the primary grades, students learn to recognize and describe some geometric properties of
+three-dimensional figures, such as the number and shape of faces and the number of edges
+or vertices. For the most part, they explore these properties concretely, using models of
+three-dimensional figures, though they also begin to investigate nets of rectangular prisms.
+Learning about geometric properties allows students to develop the concepts and language
+they need to analyse and describe three-dimensional figures, and to discover relationships
+between two- and three-dimensional geometry. Experiences in the primary classroom include
+identifying, comparing, sorting, and classifying figures according to their basic properties,
+and making connections between two-dimensional shapes and three-dimensional figures.
+\end{Outcomes}
+\begin{References}
+Schwartz; Yerushalmy and Wilson (1993). The Geometric Supposer: What is it a Case of?. Hillsdale, NJ: Lawrence Erlbaum Associates.
+Battista, M.T. (2007). "The Development of Geometric and Spatial Thinking". In Lester, Jr., F.K. Second Handbook of Research on Mathematics Teaching and Learning. Charlotte, NC: Information Age and the National Council of Teachers of Mathematics. pp. 843–903.
+\end{References}
+
+
+ 
+\end{document}
+
